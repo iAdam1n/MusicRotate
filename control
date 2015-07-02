@@ -2,7 +2,7 @@ Package: com.iadam1n.musicrotate
 Name: MusicRotate
 Pre-Depends: firmware (>=8.4)
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Enable rotation in Music app on iOS 8.4+.
 Maintainer: iAdam1n
