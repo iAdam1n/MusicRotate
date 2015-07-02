@@ -3,7 +3,7 @@ Enable rotation in iOS 8.4 Music app.
 
 ## [License](LICENSE)
 
-	NoMusicRotate: Disable rotation in iOS Music app.
+	MusicRotate: Disable rotation in iOS Music app.
 	Copyright (C) 2015  iAdam1n
 	
     This program is free software: you can redistribute it and/or modify
